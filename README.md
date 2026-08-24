@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, bienvenido a mi perfil! 👋
+Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y apasionado por el desarrollo de software y la automatización con **Python**.
 
-<!--
-**CLAUDIO593/CLAUDIO593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Lenguajes:** Python (FastAPI, Flask, Django)
+* **Redes e Infraestructura:** Cableado estructurado UTP/Fibra óptica, diseño de redes y sistemas de seguridad.
+* **Control de versiones:** Git y GitHub
+* **Sistemas operativos:** Linux / Windows Server
+* **Editores y Entornos:** Vim, VS Code, WSL (Windows Subsystem for Linux)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CLAUDIO593&show_icons=true&theme=radical)

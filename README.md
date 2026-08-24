@@ -16,6 +16,3 @@ Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y ap
 </p>
 
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CLAUDIO593&show_icons=true&theme=radical)

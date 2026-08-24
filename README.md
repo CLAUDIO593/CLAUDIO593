@@ -5,13 +5,16 @@ Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y ap
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Python (FastAPI, Flask, Django)
-* **Redes e Infraestructura:** Cableado estructurado UTP/Fibra óptica, diseño de redes y sistemas de seguridad.
-* **Control de versiones:** Git y GitHub
-* **Sistemas operativos:** Linux / Windows Server
-* **Editores y Entornos:** Vim, VS Code, WSL (Windows Subsystem for Linux)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  
+</p>
 
----
 
 ## 📊 Estadísticas de GitHub
 

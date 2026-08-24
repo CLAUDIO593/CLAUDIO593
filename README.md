@@ -1,5 +1,6 @@
 # ¡Hola, bienvenido a mi perfil! 👋
 Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y apasionado por el desarrollo de software y la automatización con **Python**.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas

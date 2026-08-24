@@ -1,6 +1,5 @@
 # ¡Hola, bienvenido a mi perfil! 👋
 Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y apasionado por el desarrollo de software y la automatización con **Python**.
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -12,7 +11,6 @@ Soy un profesional  enfocado en **infraestructura IT, redes estructuradas** y ap
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  
 </p>
 
 
